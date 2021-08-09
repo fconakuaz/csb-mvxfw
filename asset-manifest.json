@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://fconakuaz.github.io/csb-mvxfw/static/css/main.586df6b9.chunk.css",
+    "main.js": "https://fconakuaz.github.io/csb-mvxfw/static/js/main.55c7d210.chunk.js",
+    "main.js.map": "https://fconakuaz.github.io/csb-mvxfw/static/js/main.55c7d210.chunk.js.map",
+    "runtime~main.js": "https://fconakuaz.github.io/csb-mvxfw/static/js/runtime~main.a8dbee89.js",
+    "runtime~main.js.map": "https://fconakuaz.github.io/csb-mvxfw/static/js/runtime~main.a8dbee89.js.map",
+    "static/js/2.b96823ce.chunk.js": "https://fconakuaz.github.io/csb-mvxfw/static/js/2.b96823ce.chunk.js",
+    "static/js/2.b96823ce.chunk.js.map": "https://fconakuaz.github.io/csb-mvxfw/static/js/2.b96823ce.chunk.js.map",
+    "index.html": "https://fconakuaz.github.io/csb-mvxfw/index.html",
+    "precache-manifest.71e8568873bbbc64a0f64d15af747f88.js": "https://fconakuaz.github.io/csb-mvxfw/precache-manifest.71e8568873bbbc64a0f64d15af747f88.js",
+    "service-worker.js": "https://fconakuaz.github.io/csb-mvxfw/service-worker.js",
+    "static/css/main.586df6b9.chunk.css.map": "https://fconakuaz.github.io/csb-mvxfw/static/css/main.586df6b9.chunk.css.map",
+    "static/media/nobooks.jpg": "https://fconakuaz.github.io/csb-mvxfw/static/media/nobooks.a2817827.jpg"
+  }
+}
